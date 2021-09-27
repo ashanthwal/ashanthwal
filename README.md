@@ -2,7 +2,6 @@
 
 ### Please checkout my [website] for more...👋
 
-[![Website](https://img.shields.io/website?label=My Portfolio Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ash-anthwal.netlify.app/)
 
 ## Passionate Full Stack Developer, Gamer and Tech Enthusiast..!
 
