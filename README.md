@@ -1,6 +1,6 @@
 ### Hello, I'm Ash
 
-### Please checkout my [portfolio] for more...👋
+### Please checkout my [portfolio] for more information...👋
 
 
 ## ✨Passionate Full Stack Developer, Gamer and Tech Enthusiast..!
