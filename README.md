@@ -92,6 +92,6 @@
 </details>
 
 [website]: https://ash-anthwal.netlify.app/
-[linkedin]: www.linkedin.com/in/ashanthwal
+[linkedin]: www.linkedin.com/in/ashanthwal/
 [youtube]: https://www.youtube.com/channel/UCeOd7AZqF2S6hDQ1pV8pgjw
 [instagram]: https://www.instagram.com/ashanthwal/
