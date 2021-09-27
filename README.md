@@ -1,13 +1,13 @@
-### Hello there, I'm Ash
+### Hello, I'm Ash
 
-### Please checkout my [website] for more...👋
+### Please checkout my [portfolio] for more...👋
 
 
-## Passionate Full Stack Developer, Gamer and Tech Enthusiast..!
+## ✨Passionate Full Stack Developer, Gamer and Tech Enthusiast..!
 
-- 🔭 I just started
-- 🌱 I’m currently learning DinoJS and TypeScript
-- 👯 Always excited to collaborate with interesting people and projects
+- 🔭 I recently finished Harvard's CS50 and CS50 Web Programming 
+- 🌱 I’m currently learning DinoJS and TypeScript 
+- 👯 Always excited to collaborate interesting projects
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -35,30 +35,14 @@
 <br />
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashanthwal&hide=smalltalk&theme=nightowl&layout=compact&custom_title=Ash's%20Top%20Languages&card_width=270px&langs_count=6) &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=ashanthwal&hide=stars&theme=nightowl&show_icons=True&count_private=True&line_height=24&include_all_commits=True&custom_title=Ash's%20GitHub%20Stats) 
+
+![](https://komarev.com/ghpvc/?username=ashanthwal&color=7957d5&style=flat-square) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub followers](https://img.shields.io/github/followers/ashanthwal?color=7957d5&logo=github&style=flat-square)
 
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://ash-anthwal.netlify.app/
+[portfolio]: https://ash-anthwal.netlify.app/
 [linkedin]: https://www.linkedin.com/in/ashanthwal/
 [youtube]: https://www.youtube.com/channel/UCeOd7AZqF2S6hDQ1pV8pgjw
 [instagram]: https://www.instagram.com/ashanthwal/
