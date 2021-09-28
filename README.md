@@ -6,7 +6,7 @@
 ## ✨Passionate Full Stack Developer, Gamer and Tech Enthusiast..!
 
 - 🔭 I recently finished Harvard's CS50 and CS50 Web Programming 
-- 🌱 I’m currently learning DinoJS and TypeScript 
+- 🌱 I’m currently learning DenoJS and TypeScript 
 - 👯 Always excited learn to collaborate with interesting people on projects
 
 ### Connect with me:
