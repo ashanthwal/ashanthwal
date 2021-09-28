@@ -35,7 +35,7 @@
 <br />
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashanthwal&hide=smalltalk&theme=nightowl&layout=compact&custom_title=Ash's%20Top%20Languages&card_width=270px&langs_count=6) &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=ashanthwal&hide=&theme=nightowl&show_icons=True&count_private=True&line_height=24&include_all_commits=True&custom_title=Ash's%20GitHub%20Stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashanthwal&hide=smalltalk&theme=nightowl&layout=compact&custom_title=Ash's%20Top%20Languages&card_width=270px&langs_count=6) &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=ashanthwal&hide=stars,prs,issues&theme=nightowl&show_icons=True&count_private=True&line_height=24&include_all_commits=True&custom_title=Ash's%20GitHub%20Stats) 
 
 ![](https://komarev.com/ghpvc/?username=ashanthwal&color=7957d5&style=flat-square) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub followers](https://img.shields.io/github/followers/ashanthwal?color=7957d5&logo=github&style=flat-square)
 
