@@ -7,7 +7,7 @@
 
 - 🔭 I recently finished Harvard's CS50 and CS50 Web Programming 
 - 🌱 I’m currently learning DinoJS and TypeScript 
-- 👯 Always excited to collaborate interesting projects
+- 👯 Always excited learn to collaborate with interesting people on projects
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
