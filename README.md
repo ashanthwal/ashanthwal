@@ -7,7 +7,7 @@
 
 - 🔭 I recently finished Harvard's CS50 and CS50 Web Programming 
 - 🌱 I’m currently learning DenoJS and TypeScript 
-- 👯 Always excited and eager to learn and collaborate on interesting projects
+- 👯 Always excited and driven to learn and collaborate on interesting projects
 
 ### Connect with me on:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
