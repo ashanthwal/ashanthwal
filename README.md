@@ -42,7 +42,7 @@
 
 
 
-[portfolio]: https://ash-anthwal.netlify.app/
+[portfolio]: https://anthwal.netlify.app/
 [linkedin]: https://www.linkedin.com/in/ashanthwal/
 [youtube]: https://www.youtube.com/channel/UCeOd7AZqF2S6hDQ1pV8pgjw
 [instagram]: https://www.instagram.com/ashanthwal/
